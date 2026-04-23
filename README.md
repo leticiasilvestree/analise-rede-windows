@@ -47,6 +47,12 @@ Identifiquei o processo `mc-fw-host.exe`, relacionado a serviços de segurança 
 - Como relacionar conexões com processos
 - Noções básicas de análise de rede
 
-## 🚀 Conclusão
+## Conclusão
 
 Este projeto me permitiu entender como meu computador se comunica com a rede e como analisar conexões ativas — um passo importante na área de Cibersegurança.
+
+<img width="942" height="145" alt="tasklist  findstr 5100" src="https://github.com/user-attachments/assets/88947bb5-19dc-4171-95e4-e9abcf68c695" />
+<img width="1008" height="630" alt="ipconfig" src="https://github.com/user-attachments/assets/953c18ab-1e2a-43b6-b898-3fd726a74c72" />
+<img width="867" height="588" alt="netstat -an" src="https://github.com/user-attachments/assets/231db642-e30a-4bcc-b31d-e5dc571b1c51" />
+<img width="947" height="473" alt="netstat -ano" src="https://github.com/user-attachments/assets/b01ebe30-43fe-45e4-a58b-4a90d9c3f6aa" />
+
